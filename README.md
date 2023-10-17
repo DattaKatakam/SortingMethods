@@ -1,1 +1,3 @@
 # SortingMethods
+Different sorting methods are implemented like Bubble sort, Insertion sort, Quick sort, SelectionSort.....
+other methods will be added later
